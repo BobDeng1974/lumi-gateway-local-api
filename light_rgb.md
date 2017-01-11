@@ -5,7 +5,7 @@
 温湿度传感器如果温度变化达到0.5度或者湿度变化达到6%上报一个报文。
 
 | 属性 | 说明 |
-| -- | -- |
+| --- | --- |
 | status  | on/off        (开/关) |
 | level | 亮度 |
 | color_temperature  | Color Temperature Mired |
